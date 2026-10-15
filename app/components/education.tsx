@@ -39,7 +39,7 @@ const education = [
       "Software Development",
     ],
     current: false,
-    icon: School,
+    icon: GraduationCap,
     website: "https://riteh.uniri.hr/",
   },
   {
@@ -56,7 +56,7 @@ const education = [
       "Exercise",
     ],
     current: false,
-    icon: Trophy,
+    icon: GraduationCap,
     website: null,
   },
 ];
